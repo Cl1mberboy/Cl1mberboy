@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cl1mberboy
-- 👀 I’m interested in  artificial intelligence and vision, electronics, FPS video games and coffe.
+- 👀 I’m interested in  artificial intelligence and vision, electronics, FPS video games and coffee.
 - 🌱 I’m currently learning Databases.
 - 🍿 I’m  crazy about popcorn.
 - 💞️ I’m looking to collaborate on something interesting and entertaining
